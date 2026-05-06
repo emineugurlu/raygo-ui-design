@@ -34,4 +34,6 @@ This conceptual work emphasizes a "Clean Navigation" approach for urban commuter
 <br>
 <img width="1024" height="768" alt="İletişim" src="https://github.com/user-attachments/assets/f37138a4-c904-48e7-b284-222bd67d7c90" />
 
+
+<br>
 Designed by **Emine Uğurlu** - Computer Engineer & UI/UX Enthusiast. Merging aesthetic vision with technical precision.
