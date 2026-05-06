@@ -29,9 +29,9 @@ This conceptual work emphasizes a "Clean Navigation" approach for urban commuter
 ## 📸 Interface Preview
 
 <img width="1024" height="768" alt="AnaSayfa" src="https://github.com/user-attachments/assets/d2cc67bc-7138-425f-8514-1b1ed1747dff" />
-
+<br>
 <img width="1024" height="768" alt="Hakkımızda" src="https://github.com/user-attachments/assets/f591fb42-0584-471c-9edd-f0a08e9c5ad1" />
-
+<br>
 <img width="1024" height="768" alt="İletişim" src="https://github.com/user-attachments/assets/f37138a4-c904-48e7-b284-222bd67d7c90" />
 
 Designed by **Emine Uğurlu** - Computer Engineer & UI/UX Enthusiast. Merging aesthetic vision with technical precision.
